@@ -1,0 +1,8 @@
+
+
+<resources>
+<string name = "app_name"> ecommerce68 </string>
+<string name="facebook_app_id">645852319947566</string>
+<string name="fb_login_protocol_scheme">fb645852319947566</string>
+
+</resources>
