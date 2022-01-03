@@ -169,6 +169,7 @@ class _HomeScreen1State extends State<HomeScreen1> {
                             ),
                             Text("${_product[index]["product-name"]}"),
                             Text(_product[index]["product-price"]),
+                            Text('test')
                           ],
                         ),
                         elevation: 3,
